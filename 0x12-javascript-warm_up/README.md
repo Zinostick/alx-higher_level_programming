@@ -1,1 +1,4 @@
-My first readme
+#!/usr/bin/node
+
+my first readme
+
